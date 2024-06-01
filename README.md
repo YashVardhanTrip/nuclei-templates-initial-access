@@ -1,7 +1,7 @@
 ![Logo-cropped](https://github.com/YashVardhanTrip/nuclei-templates-initial-access/assets/96331700/3c6babff-b780-41d8-9a95-4b093fb85928)
 
 
-`Default Credential Initial Access Workflow 🚀`
+`Default Credential Initial Access 🚀`
 
 _This project provides a comprehensive set of Nuclei templates designed to identify and exploit default credentials across a variety of orthodox yet commonly used technologies. Whether you’re a Red Teamer, conducting Vulnerability Assessments, performing Penetration Testing (VAPT), or participating in Bug Bounty programs, this workflow is your go-to resource for initial foothold acquisition._
 
